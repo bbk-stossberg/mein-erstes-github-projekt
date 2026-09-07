@@ -13,3 +13,10 @@ Klasse: QTeacher
 - Github verstehen
 - Dateien bearbeiten
 - Mit anderen zusammenarbeiten
+
+  ## Mein Lieblingsfach
+  Mein Lieblingsfach ist: Smash
+
+  # Mein Ziel
+
+  Ich möchte mit Github lernen, wie man gemeinsam an Projekten arbeitet.

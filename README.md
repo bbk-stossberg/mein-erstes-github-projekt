@@ -2,13 +2,13 @@
 
 Hallo, ich lerne gerade GitHub.
 
-##Über mich
+## Über mich
 
 Name: Wolf greift Hund an
 
 Klasse: QTeacher
 
-##Das möchte ich lernen
+## Das möchte ich lernen
 
 - Github verstehen
 - Dateien bearbeiten
@@ -20,3 +20,7 @@ Klasse: QTeacher
   # Mein Ziel
 
   Ich möchte mit Github lernen, wie man gemeinsam an Projekten arbeitet.
+
+## Meine Änderung
+
+:)
